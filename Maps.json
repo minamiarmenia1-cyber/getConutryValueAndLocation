@@ -9,7 +9,7 @@
   { "id": 8, "value": 112, "location": "Canada, Ontario, Ottawa, Bank Street 45" },
   { "id": 9, "value": 31, "location": "Miami" },
   { "id": 10, "value": 145, "location": "233 South Wacker Drive, Chicago, IL 60606, USA" },
-  { "id": 11, "value": 64, "location": "Houston, TX" },
+  { "id": 11, "value": null, "location": "Houston, TX" },
   { "id": 12, "value": 19, "location": "60601" },
   { "id": 13, "value": 97, "location": "USA, Texas, Dallas, Elm Street 500" },
   { "id": 14, "value": 128, "location": "Vancouver" },
