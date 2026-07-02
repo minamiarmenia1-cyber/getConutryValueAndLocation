@@ -2,52 +2,52 @@
    "calendar_events":[
       {
          "id":1,
-         "date":"2025-06-15",
+         "date":"2026-06-15",
          "description":"Team standup meeting"
       },
       {
          "id":2,
-         "date":"06/15/2025",
+         "date":"06/15/2026",
          "description":"Client presentation at HQ"
       },
       {
          "id":3,
-         "date":"15/06/2025",
+         "date":"15/06/2026",
          "description":"Sprint retrospective"
       },
       {
          "id":4,
-         "date":"2025/06/15",
+         "date":"2026/06/15",
          "description":"Annual performance review"
       },
       {
          "id":5,
-         "date":"6/5/2025",
+         "date":"6/5/2026",
          "description":"Budget approval meeting"
       },
       {
          "id":6,
-         "date":"15.06.2025",
+         "date":"15.06.2026",
          "description":"Infrastructure audit"
       },
       {
          "id":7,
-         "date":"June 15, 2025",
+         "date":"June 15, 2026",
          "description":"Quarterly OKR check-in"
       },
       {
          "id":8,
-         "date":"15-Jun-2025",
+         "date":"15-Jun-2026",
          "description":"Vendor contract renewal"
       },
       {
          "id":9,
-         "date":"20250615",
+         "date":"20260615",
          "description":"Database migration window"
       },
       {
          "id":10,
-         "date":"Sun, 15 Jun 2025 09:30:00 GMT",
+         "date":"Sun, 15 Jun 2026 09:30:00 GMT",
          "description":"Server maintenance"
       },
       {
@@ -57,57 +57,57 @@
       },
       {
          "id":12,
-         "date":"06/15/2025 14:30",
+         "date":"06/15/2026 14:30",
          "description":"Deployment window opens"
       },
       {
          "id":13,
-         "date":"15/06/2025 09:00:00",
+         "date":"15/06/2026 09:00:00",
          "description":"Morning all-hands"
       },
       {
          "id":14,
-         "date":"2025/06/15 23:59:59",
+         "date":"2026/06/15 23:59:59",
          "description":"Feature freeze deadline"
       },
       {
          "id":15,
-         "date":"2025-06-15 09:00",
+         "date":"2026-06-15 09:00",
          "description":"Morning standup"
       },
       {
          "id":16,
-         "date":"2025-06-15 14:30",
+         "date":"2026-06-15 14:30",
          "description":"Afternoon sync"
       },
       {
          "id":17,
-         "date":"2025-06-15 00:00",
+         "date":"2026-06-15 00:00",
          "description":"Midnight cron job trigger"
       },
       {
          "id":18,
-         "date":"2025-06-15 23:59",
+         "date":"2026-06-13 23:59",
          "description":"End of day cutoff"
       },
       {
          "id":19,
-         "date":"2025-06-15 09:00:00",
+         "date":"2026-06-14 09:00:00",
          "description":"Sprint planning kickoff"
       },
       {
          "id":20,
-         "date":"2025-06-15 14:30:45",
+         "date":"2026-06-12 14:30:45",
          "description":"Automated pipeline run"
       },
       {
          "id":21,
-         "date":"2025-06-15 00:00:00",
+         "date":"2026-06-05 00:00:00",
          "description":"Day-start batch job"
       },
       {
          "id":22,
-         "date":"2025-06-15 23:59:59",
+         "date":"2026-06-25 23:59:59",
          "description":"SLA expiry"
       },
       {
@@ -117,22 +117,22 @@
       },
       {
          "id":24,
-         "date":"2025-06-15T09:30:00.000",
+         "date":"2026-06-19T09:30:00.000",
          "description":"Sync with logging system"
       },
       {
          "id":25,
-         "date":"Jun-2025",
+         "date":"Jun-2026",
          "description":"Monthly billing cycle"
       },
       {
          "id":26,
-         "date":"Jun 2025",
+         "date":"Jun 2026",
          "description":"Quarterly newsletter"
       },
       {
          "id":27,
-         "date":"June 2025",
+         "date":"June 2026",
          "description":"Monthly roadmap update"
       },
       {
@@ -152,37 +152,37 @@
       },
       {
          "id":31,
-         "date":"2025-06-15T09:30:00Z",
+         "date":"2026-07-19T09:30:00Z",
          "description":"Sync with EU team"
       },
       {
          "id":32,
-         "date":"2025-06-15T09:30:00+00:00",
+         "date":"2026-07-17T09:30:00+00:00",
          "description":"UTC explicit offset"
       },
       {
          "id":33,
-         "date":"2025-06-15T09:30:00+04:00",
+         "date":"2026-07-11T09:30:00+04:00",
          "description":"Dubai office call"
       },
       {
          "id":34,
-         "date":"2025-06-15T09:30:00-05:00",
+         "date":"2026-07-07T09:30:00-05:00",
          "description":"New York team check-in"
       },
       {
          "id":35,
-         "date":"2025-06-15T09:30:00-08:00",
+         "date":"2026-07-21T09:30:00-08:00",
          "description":"West Coast deployment call"
       },
       {
          "id":36,
-         "date":"2025-06-15T09:30:00+05:30",
+         "date":"2026-07-30T09:30:00+05:30",
          "description":"Bangalore sprint review"
       },
       {
          "id":37,
-         "date":"2025-06-15T09:30:00+09:00",
+         "date":"2026-07-28T09:30:00+09:00",
          "description":"Tokyo office standup"
       },
       {
@@ -212,47 +212,47 @@
       },
       {
          "id":43,
-         "date":"2025-07-01",
+         "date":"2026-07-01",
          "description":"Ok"
       },
       {
          "id":44,
-         "date":"2025-07-02",
+         "date":"2026-07-02",
          "description":"Project kickoff"
       },
       {
          "id":45,
-         "date":"2025-07-04",
+         "date":"2026-07-04",
          "description":"Independence Day company picnic at Riverside Park — remember to bring sunscreen, lawn chairs, and your best BBQ side dish for the potluck."
       },
       {
          "id":46,
-         "date":"2025-07-10",
+         "date":"2026-07-10",
          "description":"Q3 planning session covering roadmap alignment, resource allocation across engineering and design, budget forecasting for the second half of the year, stakeholder communication strategy, risk assessment matrix review, and OKR target-setting workshop. Please review the pre-read materials circulated by the Chief of Staff before attending. The session will run from 9 AM to 5 PM with two 15-minute breaks and a 1-hour lunch break. Zoom link in calendar invite."
       },
       {
          "id":47,
-         "date":"2025-07-15",
+         "date":"2026-07-15",
          "description":"Price: $1,500 & 20% discount — save <$300>!"
       },
       {
          "id":48,
-         "date":"2025-07-20",
+         "date":"2026-07-20",
          "description":"<strong>Important:</strong> Deploy to <em>production</em> after 6 PM. Check <a href=\"/status\">status page</a>."
       },
       {
          "id":49,
-         "date":"2025-07-22",
+         "date":"2026-07-22",
          "description":"## Sprint Review\n\n- **Velocity**: 42 pts\n- *Goal*: Ship auth module\n\n> All tickets closed ✅"
       },
       {
          "id":50,
-         "date":"2025-07-25",
+         "date":"2026-07-25",
          "description":"User said: \"Don't deploy on Friday!\" (It's a 'rule')\nLine 2: back\\slash & tab\there."
       },
       {
          "id":51,
-         "date":"2025-08-10",
+         "date":"2026-08-10",
          "description":"Привет! Встреча команды 🎉 — réunion d'équipe — チームミーティング"
       },
       {
@@ -262,7 +262,7 @@
       },
       {
          "id":53,
-         "date":"2025-08-01",
+         "date":"2026-08-01",
          "description":null
       },
       {
@@ -272,7 +272,7 @@
       },
       {
          "id":55,
-         "date":"2025-08-05",
+         "date":"2026-08-05",
          "description":""
       },
       {
@@ -287,27 +287,27 @@
       },
       {
          "id":58,
-         "date":"15-06-2025",
+         "date":"15-06-2026",
          "description":"Added entry 15-06-2025"
       },
       {
          "id":59,
-         "date":"06-15-2025",
+         "date":"06-15-2026",
          "description":"Added entry 06-15-2025"
       },
       {
          "id":60,
-         "date":"02-29-2025",
+         "date":"02-29-2026",
          "description":"INVALID DATE — Feb 29 does not exist in 2025 (not a leap year)"
       },
       {
          "id":61,
-         "date":"29-02-2025",
+         "date":"29-02-2026",
          "description":"INVALID DATE — Feb 29 does not exist in 2025 (not a leap year)"
       },
       {
          "id":62,
-         "date":"28-02-2025",
+         "date":"28-02-2026",
          "description":"Added entry 28-02-2025"
       },
       {
