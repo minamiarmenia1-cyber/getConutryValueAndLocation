@@ -1,5 +1,4 @@
 {
-
     { "id": 1, "values": [10], "locations": ["350 5th Avenue, New York, NY 10118, USA"] },
     { "id": 2, "values": [23], "locations": [""] },
     { "id": 3, "values": [47], "locations": ["90210"] },
@@ -30,5 +29,4 @@
     { "id": 28, "values": [124], "locations": ["Berlin"] },
     { "id": 29, "values": [48], "locations": ["1000 Fifth Avenue, New York, NY 10028, USA"] },
     { "id": 30, "values": [110], "locations": ["London"] }
-  
 }
