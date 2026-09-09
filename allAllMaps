@@ -1,7 +1,7 @@
 {
   "items": [
     { "id": 1, "values": [10], "locations": ["350 5th Avenue, New York, NY 10118, USA"] },
-    { "id": 2, "values": [23], "locations": ["Chicago"] },
+    { "id": 2, "values": [23], "locations": [""] },
     { "id": 3, "values": [47], "locations": ["90210"] },
     { "id": 4, "values": [89], "locations": ["USA, California, Los Angeles, Sunset Blvd 1200"] },
     { "id": 5, "values": [134], "locations": ["Toronto"] },
