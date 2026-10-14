@@ -6,7 +6,7 @@
     { "id": 4, "date": "2026/06/15", "description": "Annual performance review", "color": "#5E35B1" },
     { "id": 5, "date": "6/5/2026", "description": "Budget approval meeting", "color": "#3949AB" },
     { "id": 6, "date": "15.06.2026", "description": "Infrastructure audit", "color": "#1E88E5" },
-    { "id": 7, "date": "June 15, 2026", "description": "Quarterly OKR check-in", "color": "#039BE5" },
+    { "id": 7, "date": "June 15, 2026", "description": "Quarterly OKR check-in....", "color": "#039BE5" },
     { "id": 8, "date": "15-Jun-2026", "description": "Vendor contract renewal", "color": "#00ACC1" },
     { "id": 9, "date": "20260615", "description": "Database migration window", "color": "#00897B" },
     { "id": 10, "date": "Sun, 15 Jun 2026 09:30:00 GMT", "description": "Server maintenance", "color": "#43A047" },
