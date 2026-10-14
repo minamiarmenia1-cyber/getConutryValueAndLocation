@@ -1,329 +1,69 @@
 {
-   "calendar_events":[
-      {
-         "id":1,
-         "date":"2026-06-15",
-         "description":"Team standup meeting"
-      },
-      {
-         "id":2,
-         "date":"06/15/2026",
-         "description":"Client presentation at HQ"
-      },
-      {
-         "id":3,
-         "date":"15/06/2026",
-         "description":"Sprint retrospective"
-      },
-      {
-         "id":4,
-         "date":"2026/06/15",
-         "description":"Annual performance review"
-      },
-      {
-         "id":5,
-         "date":"6/5/2026",
-         "description":"Budget approval meeting"
-      },
-      {
-         "id":6,
-         "date":"15.06.2026",
-         "description":"Infrastructure audit"
-      },
-      {
-         "id":7,
-         "date":"June 15, 2026",
-         "description":"Quarterly OKR check-in"
-      },
-      {
-         "id":8,
-         "date":"15-Jun-2026",
-         "description":"Vendor contract renewal"
-      },
-      {
-         "id":9,
-         "date":"20260615",
-         "description":"Database migration window"
-      },
-      {
-         "id":10,
-         "date":"Sun, 15 Jun 2026 09:30:00 GMT",
-         "description":"Server maintenance"
-      },
-      {
-         "id":11,
-         "date":"1749982200",
-         "description":"Release v3.0"
-      },
-      {
-         "id":12,
-         "date":"06/15/2026 14:30",
-         "description":"Deployment window opens"
-      },
-      {
-         "id":13,
-         "date":"15/06/2026 09:00:00",
-         "description":"Morning all-hands"
-      },
-      {
-         "id":14,
-         "date":"2026/06/15 23:59:59",
-         "description":"Feature freeze deadline"
-      },
-      {
-         "id":15,
-         "date":"2026-06-15 09:00",
-         "description":"Morning standup"
-      },
-      {
-         "id":16,
-         "date":"2026-06-15 14:30",
-         "description":"Afternoon sync"
-      },
-      {
-         "id":17,
-         "date":"2026-06-15 00:00",
-         "description":"Midnight cron job trigger"
-      },
-      {
-         "id":18,
-         "date":"2026-06-13 23:59",
-         "description":"End of day cutoff"
-      },
-      {
-         "id":19,
-         "date":"2026-06-14 09:00:00",
-         "description":"Sprint planning kickoff"
-      },
-      {
-         "id":20,
-         "date":"2026-06-12 14:30:45",
-         "description":"Automated pipeline run"
-      },
-      {
-         "id":21,
-         "date":"2026-06-05 00:00:00",
-         "description":"Day-start batch job"
-      },
-      {
-         "id":22,
-         "date":"2026-06-25 23:59:59",
-         "description":"SLA expiry"
-      },
-      {
-         "id":23,
-         "date":"2025-06-15T09:30:00",
-         "description":"ISO datetime (no TZ)"
-      },
-      {
-         "id":24,
-         "date":"2026-06-19T09:30:00.000",
-         "description":"Sync with logging system"
-      },
-      {
-         "id":25,
-         "date":"Jun-2026",
-         "description":"Monthly billing cycle"
-      },
-      {
-         "id":26,
-         "date":"Jun 2026",
-         "description":"Quarterly newsletter"
-      },
-      {
-         "id":27,
-         "date":"June 2026",
-         "description":"Monthly roadmap update"
-      },
-      {
-         "id":28,
-         "date":"Jun/2025",
-         "description":"Invoice period"
-      },
-      {
-         "id":29,
-         "date":"2025-Jun",
-         "description":"Archive label"
-      },
-      {
-         "id":30,
-         "date":"Q2-2025",
-         "description":"Q2 strategy review"
-      },
-      {
-         "id":31,
-         "date":"2026-07-19T09:30:00Z",
-         "description":"Sync with EU team"
-      },
-      {
-         "id":32,
-         "date":"2026-07-17T09:30:00+00:00",
-         "description":"UTC explicit offset"
-      },
-      {
-         "id":33,
-         "date":"2026-07-11T09:30:00+04:00",
-         "description":"Dubai office call"
-      },
-      {
-         "id":34,
-         "date":"2026-07-07T09:30:00-05:00",
-         "description":"New York team check-in"
-      },
-      {
-         "id":35,
-         "date":"2026-07-21T09:30:00-08:00",
-         "description":"West Coast deployment call"
-      },
-      {
-         "id":36,
-         "date":"2026-07-30T09:30:00+05:30",
-         "description":"Bangalore sprint review"
-      },
-      {
-         "id":37,
-         "date":"2026-07-28T09:30:00+09:00",
-         "description":"Tokyo office standup"
-      },
-      {
-         "id":38,
-         "date":"2025-06-15T09:30:00+05:45",
-         "description":"Kathmandu partner call"
-      },
-      {
-         "id":39,
-         "date":"2025-06-15T09:30:00+01:00",
-         "description":"London team sync (BST)"
-      },
-      {
-         "id":40,
-         "date":"2025-06-15 09:30:00 America/New_York",
-         "description":"IANA tz string — New York"
-      },
-      {
-         "id":41,
-         "date":"2025-06-15 09:30:00 Europe/London",
-         "description":"IANA tz string — London"
-      },
-      {
-         "id":42,
-         "date":"2025-06-15 09:30:00 Asia/Kolkata",
-         "description":"IANA tz string — India"
-      },
-      {
-         "id":43,
-         "date":"2026-07-01",
-         "description":"Sprint Retrospective"
-      },
-      {
-         "id":44,
-         "date":"2026-07-02",
-         "description":"Project kickoff"
-      },
-      {
-         "id":45,
-         "date":"2026-07-04",
-         "description":"Independence Day company picnic at Riverside Park — remember to bring sunscreen, lawn chairs, and your best BBQ side dish for the potluck."
-      },
-      {
-         "id":46,
-         "date":"2026-07-10",
-         "description":"Q3 planninggg session covering roadmap alignment, resource allocation across engineering and design, budget forecasting for the second half of the year, stakeholder communication strategy, risk assessment matrix review, and OKR target-setting workshop. Please review the pre-read materials circulated by the Chief of Staff before attending. The session will run from 9 AM to 5 PM with two 15-minute breaks and a 1-hour lunch break. Zoom link in calendar invite."
-      },
-      {
-         "id":47,
-         "date":"2026-07-15",
-         "description":"Price: $1,500 & 20% discount — save <$300>!"
-      },
-      {
-         "id":48,
-         "date":"2026-07-20",
-         "description":"<strong>Important:</strong> Deploy to <em>production</em> after 6 PM. Check <a href=\"/status\">status page</a>."
-      },
-      {
-         "id":49,
-         "date":"2026-07-22",
-         "description":"## Sprint Review\n\n- **Velocity**: 42 pts\n- *Goal*: Ship auth module\n\n> All tickets closed ✅"
-      },
-      {
-         "id":50,
-         "date":"2026-07-25",
-         "description":"User said: \"Don't deploy on Friday!\" (It's a 'rule')\nLine 2: back\\slash & tab\there."
-      },
-      {
-         "id":51,
-         "date":"2026-08-10",
-         "description":"Привет! Встреча команды 🎉 — réunion d'équipe — チームミーティング"
-      },
-      {
-         "id":52,
-         "date":null,
-         "description":"Date TBD — waiting for vendor confirmation"
-      },
-      {
-         "id":53,
-         "date":"2026-08-01",
-         "description":null
-      },
-      {
-         "id":54,
-         "date":"",
-         "description":"Location scouting for offsite"
-      },
-      {
-         "id":55,
-         "date":"2026-08-05",
-         "description":""
-      },
-      {
-         "id":56,
-         "date":null,
-         "description":null
-      },
-      {
-         "id":57,
-         "date":"",
-         "description":""
-      },
-      {
-         "id":58,
-         "date":"15-06-2026",
-         "description":"Added entry 15-06-2025"
-      },
-      {
-         "id":59,
-         "date":"06-15-2026",
-         "description":"Added entry 06-15-2025"
-      },
-      {
-         "id":60,
-         "date":"02-29-2026",
-         "description":"INVALID DATE — Feb 29 does not exist in 2025 (not a leap year)"
-      },
-      {
-         "id":61,
-         "date":"29-02-2026",
-         "description":"INVALID DATE — Feb 29 does not exist in 2025 (not a leap year)"
-      },
-      {
-         "id":62,
-         "date":"28-02-2026",
-         "description":"Added entry 28-02-2025"
-      },
-      {
-         "id":63,
-         "date":"02-28-2025",
-         "description":"Added entry 02-28-2025"
-      },
-      {
-         "id":64,
-         "date":"6/1/2025",
-         "description":"Jun all +MM/dd/yyyy"
-      },
-      {
-         "id":65,
-         "date":"01-06-2025",
-         "description":"Jun all +dd-MM-yyyy"
-      }
-   ]
+  "calendar_events": [
+    { "id": 1, "date": "2026-06-15", "description": "Team standup meeting", "color": "#E53935" },
+    { "id": 2, "date": "06/15/2026", "description": "Client presentation at HQ", "color": "#D81B60" },
+    { "id": 3, "date": "15/06/2026", "description": "Sprint retrospective", "color": "#8E24AA" },
+    { "id": 4, "date": "2026/06/15", "description": "Annual performance review", "color": "#5E35B1" },
+    { "id": 5, "date": "6/5/2026", "description": "Budget approval meeting", "color": "#3949AB" },
+    { "id": 6, "date": "15.06.2026", "description": "Infrastructure audit", "color": "#1E88E5" },
+    { "id": 7, "date": "June 15, 2026", "description": "Quarterly OKR check-in", "color": "#039BE5" },
+    { "id": 8, "date": "15-Jun-2026", "description": "Vendor contract renewal", "color": "#00ACC1" },
+    { "id": 9, "date": "20260615", "description": "Database migration window", "color": "#00897B" },
+    { "id": 10, "date": "Sun, 15 Jun 2026 09:30:00 GMT", "description": "Server maintenance", "color": "#43A047" },
+    { "id": 11, "date": "1749982200", "description": "Release v3.0", "color": "#7CB342" },
+    { "id": 12, "date": "06/15/2026 14:30", "description": "Deployment window opens", "color": "#C0CA33" },
+    { "id": 13, "date": "15/06/2026 09:00:00", "description": "Morning all-hands", "color": "#FDD835" },
+    { "id": 14, "date": "2026/06/15 23:59:59", "description": "Feature freeze deadline", "color": "#FFB300" },
+    { "id": 15, "date": "2026-06-15 09:00", "description": "Morning standup", "color": "#FB8C00" },
+    { "id": 16, "date": "2026-06-15 14:30", "description": "Afternoon sync", "color": "#F4511E" },
+    { "id": 17, "date": "2026-06-15 00:00", "description": "Midnight cron job trigger", "color": "#6D4C41" },
+    { "id": 18, "date": "2026-06-13 23:59", "description": "End of day cutoff", "color": "#757575" },
+    { "id": 19, "date": "2026-06-14 09:00:00", "description": "Sprint planning kickoff", "color": "#546E7A" },
+    { "id": 20, "date": "2026-06-12 14:30:45", "description": "Automated pipeline run", "color": "#FF5252" },
+    { "id": 21, "date": "2026-06-05 00:00:00", "description": "Day-start batch job", "color": "#FF4081" },
+    { "id": 22, "date": "2026-06-25 23:59:59", "description": "SLA expiry", "color": "#E040FB" },
+    { "id": 23, "date": "2025-06-15T09:30:00", "description": "ISO datetime (no TZ)", "color": "#7C4DFF" },
+    { "id": 24, "date": "2026-06-19T09:30:00.000", "description": "Sync with logging system", "color": "#536DFE" },
+    { "id": 25, "date": "Jun-2026", "description": "Monthly billing cycle", "color": "#448AFF" },
+    { "id": 26, "date": "Jun 2026", "description": "Quarterly newsletter", "color": "#40C4FF" },
+    { "id": 27, "date": "June 2026", "description": "Monthly roadmap update", "color": "#18FFFF" },
+    { "id": 28, "date": "Jun/2025", "description": "Invoice period", "color": "#64FFDA" },
+    { "id": 29, "date": "2025-Jun", "description": "Archive label", "color": "#69F0AE" },
+    { "id": 30, "date": "Q2-2025", "description": "Q2 strategy review", "color": "#B2FF59" },
+    { "id": 31, "date": "2026-07-19T09:30:00Z", "description": "Sync with EU team", "color": "#EEFF41" },
+    { "id": 32, "date": "2026-07-17T09:30:00+00:00", "description": "UTC explicit offset", "color": "#FFFF00" },
+    { "id": 33, "date": "2026-07-11T09:30:00+04:00", "description": "Dubai office call", "color": "#FFD740" },
+    { "id": 34, "date": "2026-07-07T09:30:00-05:00", "description": "New York team check-in", "color": "#FFAB40" },
+    { "id": 35, "date": "2026-07-21T09:30:00-08:00", "description": "West Coast deployment call", "color": "#FF6E40" },
+    { "id": 36, "date": "2026-07-30T09:30:00+05:30", "description": "Bangalore sprint review", "color": "#B71C1C" },
+    { "id": 37, "date": "2026-07-28T09:30:00+09:00", "description": "Tokyo office standup", "color": "#880E4F" },
+    { "id": 38, "date": "2025-06-15T09:30:00+05:45", "description": "Kathmandu partner call", "color": "#4A148C" },
+    { "id": 39, "date": "2025-06-15T09:30:00+01:00", "description": "London team sync (BST)", "color": "#311B92" },
+    { "id": 40, "date": "2025-06-15 09:30:00 America/New_York", "description": "IANA tz string — New York", "color": "#1A237E" },
+    { "id": 41, "date": "2025-06-15 09:30:00 Europe/London", "description": "IANA tz string — London", "color": "#0D47A1" },
+    { "id": 42, "date": "2025-06-15 09:30:00 Asia/Kolkata", "description": "IANA tz string — India", "color": "#01579B" },
+    { "id": 43, "date": "2026-07-01", "description": "Sprint Retrospective", "color": "#006064" },
+    { "id": 44, "date": "2026-07-02", "description": "Project kickoff", "color": "#004D40" },
+    { "id": 45, "date": "2026-07-04", "description": "Independence Day company picnic at Riverside Park — remember to bring sunscreen, lawn chairs, and your best BBQ side dish for the potluck.", "color": "#1B5E20" },
+    { "id": 46, "date": "2026-07-10", "description": "Q3 planninggg session covering roadmap alignment, resource allocation across engineering and design, budget forecasting for the second half of the year, stakeholder communication strategy, risk assessment matrix review, and OKR target-setting workshop. Please review the pre-read materials circulated by the Chief of Staff before attending. The session will run from 9 AM to 5 PM with two 15-minute breaks and a 1-hour lunch break. Zoom link in calendar invite.", "color": "#33691E" },
+    { "id": 47, "date": "2026-07-15", "description": "Price: $1,500 & 20% discount — save <$300>!", "color": "#827717" },
+    { "id": 48, "date": "2026-07-20", "description": "<strong>Important:</strong> Deploy to <em>production</em> after 6 PM. Check <a href=\"/status\">status page</a>.", "color": "#F57F17" },
+    { "id": 49, "date": "2026-07-22", "description": "## Sprint Review\n\n- **Velocity**: 42 pts\n- *Goal*: Ship auth module\n\n> All tickets closed ✅", "color": "#FF6F00" },
+    { "id": 50, "date": "2026-07-25", "description": "User said: \"Don't deploy on Friday!\" (It's a 'rule')\nLine 2: back\\slash & tab\there.", "color": "#E65100" },
+    { "id": 51, "date": "2026-08-10", "description": "Привет! Встреча команды 🎉 — réunion d'équipe — チームミーティング", "color": "#BF360C" },
+    { "id": 52, "date": null, "description": "Date TBD — waiting for vendor confirmation", "color": "#3E2723" },
+    { "id": 53, "date": "2026-08-01", "description": null, "color": "#212121" },
+    { "id": 54, "date": "", "description": "Location scouting for offsite", "color": "#263238" },
+    { "id": 55, "date": "2026-08-05", "description": "", "color": "#EF9A9A" },
+    { "id": 56, "date": null, "description": null, "color": "#F48FB1" },
+    { "id": 57, "date": "", "description": "", "color": "#CE93D8" },
+    { "id": 58, "date": "15-06-2026", "description": "Added entry 15-06-2025", "color": "#B39DDB" },
+    { "id": 59, "date": "06-15-2026", "description": "Added entry 06-15-2025", "color": "#9FA8DA" },
+    { "id": 60, "date": "02-29-2026", "description": "INVALID DATE — Feb 29 does not exist in 2025 (not a leap year)", "color": "#90CAF9" },
+    { "id": 61, "date": "29-02-2026", "description": "INVALID DATE — Feb 29 does not exist in 2025 (not a leap year)", "color": "#80DEEA" },
+    { "id": 62, "date": "28-02-2026", "description": "Added entry 28-02-2025", "color": "#80CBC4" },
+    { "id": 63, "date": "02-28-2025", "description": "Added entry 02-28-2025", "color": "#A5D6A7" },
+    { "id": 64, "date": "6/1/2025", "description": "Jun all +MM/dd/yyyy", "color": "#E6EE9C" },
+    { "id": 65, "date": "01-06-2025", "description": "Jun all +dd-MM-yyyy", "color": "#FFCC80" }
+  ]
 }
